@@ -11,7 +11,11 @@ not all of it can fit on the screen at one time. Incorporating this view can
 make applications cleaner looking and more user friendly. Below is a visual
 representation of the ScrollView.
 
-![](https://i.imgur.com/lS1v4et.gifv)
+ 
+
+ 
+
+ 
 
 The History:
 
