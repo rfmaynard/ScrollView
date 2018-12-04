@@ -1,8 +1,6 @@
 ScrollView
 ==========
 
- 
-
 ### The Introduction:
 
 ScrollView is the action in which you can scroll up and down in an Android
@@ -13,11 +11,7 @@ representation of the ScrollView.
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/ryanScrollTest.gif)
 
- 
-
- 
-
-The History:
+### The History:
 
  
 
