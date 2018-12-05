@@ -17,8 +17,6 @@ Introduced in API level \#1, that makes ScrollView a grandfather compared to
 most subsequently following packages in later versions. It originates from the
 package: android.widgets
 
- 
-
 ### The major methods/attributes:
 
 As this is a View, there aren’t many methods/attributes to get this widget
@@ -40,13 +38,7 @@ The methods that I have found useful:
     type of event is occurring on the screen. By checking for if the user
     scrolls using ACTION_SCROLL, one could trigger an event with a scroll.
 
-
-
- 
-
- 
-
-An example project:
+###  An example project:
 
  
 
