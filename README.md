@@ -38,9 +38,10 @@ The methods that I have found useful:
     type of event is occurring on the screen. By checking for if the user
     scrolls using ACTION_SCROLL, one could trigger an event with a scroll.
 
-###  An example project:
+### An example project:
 
- 
+Step 1: Create the ScrollView by editing the xml to adopt the entire view as a
+ScrollView.
 
 The code:
 
