@@ -7,7 +7,7 @@ ScrollView is the action in which you can scroll up and down in an Android
 application. It is very useful for the continuation of displaying information if
 not everything can fit on the screen at one time. Incorporating this view can
 make applications cleaner looking and more user friendly. Below is a visual
-representation of the ScrollView.
+representation of the ScrollView, and its basic usage.
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/ryanScrollTest.gif)
 
@@ -53,7 +53,7 @@ Step 3: Add the desired fields into your layout of choice.
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout3.gif)
 
-Step 4:
+Step 4: After finishing your view jump to the code!
 
 ### The code: 
 
