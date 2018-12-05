@@ -19,7 +19,7 @@ package: android.widgets
 
  
 
-### The major methods/attributes:$$$$
+### The major methods/attributes:
 
 As this is a View, there aren’t many methods/attributes to get this widget
 going. One notable piece of information however is that the ScrollView can
@@ -27,7 +27,8 @@ contain only one child.
 
 The methods that I have found useful:
 
--   pageScroll (int direction) - The ScrollView will shift
+-   pageScroll (int direction) - The ScrollView will shift one page down or up
+    on a shortcut press.
 
 -   scrollTo(int x, int y) and smoothScrollTo(int x, int y) - this method
     scrolls to the corresponding x and y values within the scroll view. Can be
