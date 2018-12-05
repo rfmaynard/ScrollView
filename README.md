@@ -23,20 +23,19 @@ As this is a View, there aren’t many methods/attributes to get this widget
 going. One notable piece of information however is that the ScrollView can
 contain only one child.
 
-The methods that I have found useful:
+The methods that I have found useful, practical, and have used personally in
+apps:
 
 -   pageScroll (int direction) - The ScrollView will shift one page down or up
-    on a shortcut press.
+    on a shortcut press. View.FOCUS_UP to go up one page, and View.FOCUS_DOWN to
+    go down one page. Added in API Level 1.
 
 -   scrollTo(int x, int y) and smoothScrollTo(int x, int y) - this method
     scrolls to the corresponding x and y values within the scroll view. Can be
     very useful for longer than normal ScrollViews. The main difference between
     the two methods is that scrollTo will immediately jump to the x,y and
-    smoothScrollTo will perform an animation while scrolling.
-
--   onTouchEvent(MotionEvent ev) - this method when called can determine what
-    type of event is occurring on the screen. By checking for if the user
-    scrolls using ACTION_SCROLL, one could trigger an event with a scroll.
+    smoothScrollTo will perform an animation while scrolling. Added in API Level
+    1.
 
 ### An example project:
 
@@ -57,17 +56,25 @@ Step 4: After finishing your view jump to the code!
 
 ### The code: 
 
- 
+Uploaded here, it covers the basic functionality of methods I have listed above.
 
-### The reference:
-
- 
+### References:
 
 CN Tower Picture
 
 https://en.wikipedia.org/wiki/File:Toronto_-_ON_-_Toronto_Harbourfront7.jpg
 
  
+
+Sunset Portrait
+
+https://www.flickr.com/photos/leppre/25586215627
+
+ 
+
+Android Documentation
+
+https://developer.android.com/reference/android/widget/ScrollView
 
  
 
