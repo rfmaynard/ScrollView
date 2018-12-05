@@ -43,11 +43,17 @@ The methods that I have found useful:
 Step 1: Create the ScrollView by editing the xml to adopt the entire view as a
 ScrollView.
 
-The code:
+Step 2: Add a layout of your choice to the ScrollView
+
+Step 3: Add the desired fields into your layout of choice.
+
+### The code: 
 
  
 
-The reference:
+### The reference:
+
+ 
 
 CN Tower Picture
 
