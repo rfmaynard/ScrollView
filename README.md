@@ -43,9 +43,17 @@ The methods that I have found useful:
 Step 1: Create the ScrollView by editing the xml to adopt the entire view as a
 ScrollView.
 
-Step 2: Add a layout of your choice to the ScrollView
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout.gif)
+
+Step 2: Add a layout of your choice to the ScrollView.
+
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout2.gif)
 
 Step 3: Add the desired fields into your layout of choice.
+
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout3.gif)
+
+Step 4:
 
 ### The code: 
 
