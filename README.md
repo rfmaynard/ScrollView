@@ -59,7 +59,7 @@ Step 4: Remember to set IDs for your meaningful fields. By setting the
 appropriate IDs, you can find and initialize your fields, buttons and more in
 your code which we will cover in the code section.
 
- 
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout4.gif)
 
 Step 5: After finishing your view jump to the code!
 
