@@ -69,8 +69,6 @@ Step 5: After finishing your view jump to the code!
 
 ### The code:
 
-Uploaded here, it covers the basic functionality of methods I have listed above.
-
 Step 1: Initialize your views. By initializing your views in one general
 location. Your code can become easier to maintain and easier to read by outside
 sources.
@@ -91,6 +89,14 @@ this on, we can safely run the scrollTo or smoothScrollTo methods without any
 worry of over extending where we wish to jump to.
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/code3.png)
+
+Step 4: Have fun with the coding! I have attached code HERE with other examples
+you can try playing around with. Included are the above mentioned methods from
+‘The History’ section. Enjoy!
+
+### The Final Product:
+
+ 
 
 ### References:
 
