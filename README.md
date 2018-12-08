@@ -37,6 +37,10 @@ apps:
     smoothScrollTo will perform an animation while scrolling. Added in API Level
     1.
 
+-   getHeight() - This method will get the height of your current android
+    device. By doing this, you can correctly determine that your ScrollView can
+    work on all devices appropriately.
+
 ### An example project:
 
 Step 1: Create the ScrollView by editing the xml to adopt the entire view as a
@@ -78,6 +82,15 @@ buttons ‘listen’ for an event to occur, your application can do anything you
 tell it to within that instance!
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/code2.png)
+
+Step 3: Decide what your click listener is going to do. For this example we are
+going to decide that the jump listener will jump to the top of the activity.
+What we first must be made aware of is the getHeight() method, as mentioned
+above. By letting the ScrollView get the height of the device we are running
+this on, we can safely run the scrollTo or smoothScrollTo methods without any
+worry of over extending where we wish to jump to.
+
+ 
 
 ### References:
 
