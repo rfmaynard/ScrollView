@@ -96,7 +96,7 @@ you can try playing around with. Included are the above mentioned methods from
 
 ### The Final Product:
 
- 
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout_final.gif)
 
 ### References:
 
