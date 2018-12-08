@@ -90,7 +90,7 @@ above. By letting the ScrollView get the height of the device we are running
 this on, we can safely run the scrollTo or smoothScrollTo methods without any
 worry of over extending where we wish to jump to.
 
- 
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/code3.png)
 
 ### References:
 
