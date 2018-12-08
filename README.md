@@ -77,7 +77,7 @@ Step 2: Initialize your buttons to listen for a trigger or event. By having your
 buttons ‘listen’ for an event to occur, your application can do anything you
 tell it to within that instance!
 
- 
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/code2.png)
 
 ### References:
 
