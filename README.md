@@ -71,7 +71,7 @@ Step 1: Initialize your views. By initializing your views in one general
 location. Your code can become easier to maintain and easier to read by outside
 sources.
 
- 
+![](https://github.com/rfmaynard/ScrollView/blob/master/images/code1.png)
 
 Step 2: Initialize your buttons to listen for a trigger or event. By having your
 buttons ‘listen’ for an event to occur, your application can do anything you
