@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ryan\'s ScrollView</string>
+    <string name="this_is_a_scroll_view_test">This is a Scroll View Example</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="jump_to_bottom">Jump to Bottom</string>
+    <string name="jump_to_top">Jump to Top</string>
+    <string name="down_one_page">Down One Page</string>
+    <string name="up_one_page">Up One Page</string>
+    <string name="details">Details</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="checkbox2">CheckBox</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="switcher">Switch</string>
+</resources>

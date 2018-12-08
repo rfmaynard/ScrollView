@@ -39,7 +39,7 @@ apps:
 
 -   getHeight() - This method will get the height of your current android
     device. By doing this, you can correctly determine that your ScrollView can
-    work on all devices appropriately.
+    work on all devices appropriately, depending on your use.
 
 ### An example project:
 
