@@ -35,6 +35,7 @@ apps:
     very useful for longer than normal ScrollViews. The main difference between
     the two methods is that scrollTo will immediately jump to the x,y and
     smoothScrollTo will perform an animation while scrolling. Added in API Level
+    1.
 
 ### An example project:
 
