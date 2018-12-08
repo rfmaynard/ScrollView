@@ -35,7 +35,6 @@ apps:
     very useful for longer than normal ScrollViews. The main difference between
     the two methods is that scrollTo will immediately jump to the x,y and
     smoothScrollTo will perform an animation while scrolling. Added in API Level
-    1.
 
 ### An example project:
 
@@ -54,7 +53,7 @@ Step 3: Add the desired fields into your layout of choice.
 
 Step 4: After finishing your view jump to the code!
 
-### The code: 
+### The code:
 
 Uploaded here, it covers the basic functionality of methods I have listed above.
 
@@ -62,7 +61,7 @@ Uploaded here, it covers the basic functionality of methods I have listed above.
 
 CN Tower Picture
 
-https://en.wikipedia.org/wiki/File:Toronto_-_ON_-_Toronto_Harbourfront7.jpg
+https://en.wikipedia.org/wiki/File:Toronto_-*ON*-_Toronto_Harbourfront7.jpg
 
  
 
