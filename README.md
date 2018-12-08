@@ -90,9 +90,10 @@ worry of over extending where we wish to jump to.
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/code3.png)
 
-Step 4: Have fun with the coding! I have attached code HERE with other examples
-you can try playing around with. Included are the above mentioned methods from
-‘The History’ section. Enjoy!
+Step 4: Have fun with the coding! I have attached code
+[HERE](https://github.com/rfmaynard/ScrollView/tree/master/ScrollViewCode) with
+other examples you can try playing around with. Included are the above mentioned
+methods from ‘The History’ section. Enjoy!
 
 ### The Final Product:
 
