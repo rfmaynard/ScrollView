@@ -65,7 +65,7 @@ your code which we will cover in the code section.
 
 ![](https://github.com/rfmaynard/ScrollView/blob/master/images/scrollLayout4.gif)
 
-Step 5: After finishing your view jump to the code!
+**Step 5:** After finishing your view jump to the code!
 
 ### The code:
 
